@@ -16,16 +16,16 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Min Kim"
+title                    : "Taegyeom Lee"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Min Kim"
-description              : "Min Kim's Profile"
-url                      : "https://mineruking.gitbhub.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : "Taegyeom Lee"
+description              : "Taegyeom's Profile"
+url                      : "https://taegyeom.gitbhub.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 future                   : true
 
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "mineruking/mineruking.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "TaeGYEOM/taegyeom.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -124,27 +124,27 @@ analytics:
 
 # Site Author
 author:
-  name             : "Min Kim"
-  avatar           : "/assets/files/pro.jpg"
-  bio              : "Master Candidate @ Information System Lab, CBNU"
+  name             : "Taegyeom Lee"
+  avatar           : "/assets/files/이태겸사진.jpg"
+  bio              : "Ph.D candidate @ Information System Lab, CBNU"
   # location         : "S4-1 room 306, Chungdae-ro 1, Seowon-gu, Cheongju, Chungbuk, 28644, ROK"
   #email            : "kmin010287@chungbuk.ac.kr"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
-      url: "mailto:kmin010287@chungbuk.ac.kr"
+      url: "mailto:showm321@gmail.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/mineruking/"
+      url: "https://github.com/TaeGYEOM/"
     - label: "Google Scholar"
       icon: "fas fa-fw fa-graduation-cap"
-      url: "https://scholar.google.co.kr/null"
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin-in"
-      url: "https://www.linkedin.com/in/%EB%AF%BC-%EA%B9%80-8211152a8/"
+      url: "https://scholar.google.com/citations?user=K8Hp6LQAAAAJ&hl=ko"
+    #- label: "LinkedIn"
+      #icon: "fab fa-fw fa-linkedin-in"
+      #url: "https://www.linkedin.com/in/%EB%AF%BC-%EA%B9%80-8211152a8/"
     - label: "CV"
       icon : "fas fa-fw fa-file"
-      url: /assets/files/mkim_cv.pdf
+      url: /assets/files/CV.pdf
     # - label: "Instagram"
       # icon: "fab fa-fw fa-instagram"
       # # url: "https://instagram.com/"
@@ -164,17 +164,17 @@ footer:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url:
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
+    #- label: "Facebook"
+    #  icon: "fab fa-fw fa-facebook-square"
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/mineruking/"
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
+      url: "https://github.com/TaeGYEOM/"
+    #- label: "GitLab"
+    #  icon: "fab fa-fw fa-gitlab"
       # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
+    #- label: "Bitbucket"
+    #  icon: "fab fa-fw fa-bitbucket"
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
